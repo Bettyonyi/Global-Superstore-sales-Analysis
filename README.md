@@ -8,6 +8,8 @@ Analysis of Global superstore using MySQL, Microsoft Excel and Looker Studio.
 #### VVVGFF
 ###### GHGHGHJJHHJ
 * 6TTTYTYTYTRRTRT
+*  JHBHVVHVHHVB
+*  HBJHJHHG
 
 
 
